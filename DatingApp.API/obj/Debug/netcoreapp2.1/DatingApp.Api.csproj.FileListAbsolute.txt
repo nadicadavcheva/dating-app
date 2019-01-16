@@ -1,0 +1,14 @@
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.Api.deps.json
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.Api.runtimeconfig.json
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.Api.runtimeconfig.dev.json
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.Api.dll
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.Api.pdb
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.csprojAssemblyReference.cache
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.RazorAssemblyInfo.cache
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.RazorAssemblyInfo.cs
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.AssemblyInfoInputs.cache
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.AssemblyInfo.cs
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.dll
+C:\Users\Nadica Davcheva\Desktop\DatingApp2\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.Api.pdb

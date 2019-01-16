@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Nadica Davcheva\\Desktop\\DatingApp2\\DatingApp.API\\DatingApp.Api.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
