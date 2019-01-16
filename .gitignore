@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+
+# ignore all vscode
+.vscode
+\.vs/
+
+*.cache
